@@ -2,3 +2,5 @@
 *.netrwhist
 m_*
 *.DS_Store
+*~
+*.viminfo*
