@@ -1,0 +1,4 @@
+*.bak
+*.netrwhist
+m_*
+*.DS_Store
